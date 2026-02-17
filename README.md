@@ -1,4 +1,4 @@
-# Agentic Data Analysis System (Groq + LangChain)
+# Agentic Data Analysis System
 ## Project Overview
 
 This project implements a tool-based Agentic Data Analysis System using:
