@@ -22,7 +22,7 @@
 
 The **Agentic Data Analysis System** is a CLI-based intelligent agent that lets you ask plain English questions about engineering performance data — and receive structured, insightful answers.
 
-Built on LangChain's ReAct reasoning framework with Groq's Mixtral-8x7B model as the underlying LLM, the system autonomously selects the right analytical tool, processes your data with Pandas, and returns results as natural language explanations.
+Built on LangChain's ReAct reasoning framework with Groq's llama-3.3-70b-versatile model as the underlying LLM, the system autonomously selects the right analytical tool, processes your data with Pandas, and returns results as natural language explanations.
 
 ### Key Capabilities
 
